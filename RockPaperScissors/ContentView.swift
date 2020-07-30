@@ -113,27 +113,6 @@ struct ContentView: View {
         }
 
     }
-    
-
-//
-//        if iaAnwser==0 {
-//            userScore -= 1      // IA CHOSE SCISSOR, I LOSE
-//            mensajito = "You lose"
-//            iaAnwser = Int.random(in: 0...2)
-//        }
-//        if iaAnwser==1 {
-//            userScore += 1       // IA CHOSE ROCK, I WIN
-//            mensajito = "You win"
-//             iaAnwser = Int.random(in: 0...2)
-//         } else {
-//            mensajito = "It's a Tie"
-//            iaAnwser = Int.random(in: 0...2)
-//        }
-//    }
-//    }
-    
-
-    
 }
 
 
