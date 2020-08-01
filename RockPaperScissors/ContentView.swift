@@ -75,7 +75,7 @@ struct ContentView: View {
                     }
                 }
             }
-        }
+        }.padding()
     }
     func theGame(_ number:Int) -> Void {
         self.myChoice = self.allChoices[number]
